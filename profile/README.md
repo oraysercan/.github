@@ -16,7 +16,7 @@ Create once, use always! We care about your time! With our reusable content mode
 <br/>
 
 > ### TL-DR
-> - Git architecture provides advantages in terms of scaling, maintenance, and low > cost
+> - Git architecture provides advantages in terms of scaling, maintenance, and low cost
 > - Provides flexible and relational data models with no-code interfaces for developers
 > - The perfect tool for dynamic content on your statically published sites
 
