@@ -1,27 +1,3 @@
----
-title: Contentrain
-homepage: https://contentrain.io/
-twitter: contentrain_io
-opensource: "No"
-typeofcms: "Git-based"
-supportedgenerators:
-  - NuxtJs
-  - NextJs
-  - Gatsby
-  - 11ty
-  - Jekyll
-  - Gridsome
-  - Hugo
-  - React
-  - Vue
-  - Astro
-  - VitePress
-  - Angular
-  - Svelte
-  - Docusaurus
-  - All
-description: Contentrain is a Git-based Headless CMS that was focused on developer and content editor experience which provide seamless integration with Jamstack web apps.
----
 
 ## Contentrain
 
