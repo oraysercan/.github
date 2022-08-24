@@ -103,4 +103,3 @@ Create once, use always! We care about your time! With our reusable content mode
 
 Freelancers, startups, small businesses, and enterprise companies meet the practical and innovative way of producing and distributing content on modern web projects. 🤝
 
-Get lifetime access to Contentrain today!
